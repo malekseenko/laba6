@@ -17,7 +17,7 @@ g.setFont(f);
 drawCenteredString("16130567"
 		+ "16130569"
 		+ "16130163"
-		+ "16130029", d.width, d.height, g);
+		+ "Алексеенко", d.width, d.height, g);
 g.drawRect(0,0,d.width-1,d.height-1);
 }
 
@@ -27,3 +27,5 @@ int x = (w - fm.stringWidth(s)) / 2;
 int y = (fm.getAscent() + (h - (fm.getAscent() + fm.getDescent()))/2);
 g.drawString(s, x, y);
 } }
+//Алексеенко
+//malekseenko
