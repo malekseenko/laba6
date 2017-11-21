@@ -27,6 +27,3 @@ int x = (w - fm.stringWidth(s)) / 2;
 int y = (fm.getAscent() + (h - (fm.getAscent() + fm.getDescent()))/2);
 g.drawString(s, x, y);
 } }
-//Алексеенко
-//malekseenko
-//добавлена фамилия
